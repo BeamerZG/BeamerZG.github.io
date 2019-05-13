@@ -23,16 +23,16 @@ let gradientsIndex;
  * Zen coding quotes from https://api.github.com/zen
  */
 const zen_quotes = [
-  "Non-blocking is better than blocking.",
+  "You yourself are the best.",
   "Mind your words, they are important.",
-  "Favor focus over features.",
-  "Keep it logically awesome.",
-  "Practicality beats purity.",
-  "Design for failure.",
-  "It's not fully shipped until it's fast.",
-  "Half measures are as bad as nothing at all.",
-  "Responsive is better than fast.",
-  "Anything added dilutes everything else.",
+  "Hello, I'm Toro.",
+  "Nice to meet you.",
+  "BeamerZG here.",
+  "Wondering about life.",
+  "Are you happy?",
+  "Alright.",
+  "How about you?",
+  "Eh",
   "Encourage flow.",
   "Avoid administrative distraction.",
   "Approachable is better than simple."
