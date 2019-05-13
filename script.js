@@ -69,10 +69,6 @@ const updateGradient = () => {
   const gradientText = document.getElementById("gradient");
   const shortName = gradient.name.replace(/ +/g, "");
 
-  gradientText.innerHTML = `<a style="text-decoration: underline;" href = "https://uigradients.com/#${shortName}" target="_blank">${
-    gradient.name
-  }</a><a style="text-decoration: underline;" href = "" target="_blank"></a>`;
-
   gradientsIndex++;
 };
 
