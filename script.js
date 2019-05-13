@@ -71,7 +71,7 @@ const updateGradient = () => {
 
   gradientText.innerHTML = `<a style="text-decoration: underline;" href = "https://uigradients.com/#${shortName}" target="_blank">${
     gradient.name
-  }</a> gradient from <a style="text-decoration: underline;" href = "https://uigradients.com/" target="_blank">https://uigradients.com/</a>`;
+  }</a><a style="text-decoration: underline;" href = "" target="_blank"></a>`;
 
   gradientsIndex++;
 };
