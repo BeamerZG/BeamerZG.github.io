@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Modak");
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
 
 body {
   margin: 0;
@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   margin-top: 200px;
   font-size: 96px;
-  font-family: "Modak", cursive;
+  font-family: "Pacifico", cursive;
   color: black;
 }
 
